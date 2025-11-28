@@ -1,0 +1,756 @@
+ ErrorResults 
+  stamp : 2025-11-28T17:06:04Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516099 , 0.801924 , 0.111326]
+       - orientation : [-0.0221256 , 0.687323 , -0.0352662 , 0.725158]
+  RingCirclePositionError : 0
+  position_error : 6.28153
+  orientation_error : 3.09734
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516099 , 0.801924 , 0.111326]
+       - orientation : [-0.0221256 , 0.687323 , -0.0352662 , 0.725158]
+  RingCirclePositionError : 0
+  position_error : 6.28151
+  orientation_error : 3.09734
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516099 , 0.801924 , 0.111326]
+       - orientation : [-0.0221256 , 0.687323 , -0.0352662 , 0.725158]
+  RingCirclePositionError : 0
+  position_error : 6.28149
+  orientation_error : 3.09734
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.28154
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.28152
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.2815
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.28148
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.28145
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516073 , 0.801879 , 0.110741]
+       - orientation : [-0.0229951 , 0.687299 , -0.0360312 , 0.725116]
+  RingCirclePositionError : 0
+  position_error : 6.28143
+  orientation_error : 3.0956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516128 , 0.801972 , 0.109646]
+       - orientation : [-0.0214031 , 0.687342 , -0.0345137 , 0.725198]
+  RingCirclePositionError : 0
+  position_error : 6.28119
+  orientation_error : 3.09878
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516128 , 0.801972 , 0.109646]
+       - orientation : [-0.0214031 , 0.687342 , -0.0345137 , 0.725198]
+  RingCirclePositionError : 0
+  position_error : 6.28117
+  orientation_error : 3.09878
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28123
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28121
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:05Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28118
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:06Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28116
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:06Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28114
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:06Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0516102 , 0.801929 , 0.109061]
+       - orientation : [-0.0222729 , 0.687319 , -0.035279 , 0.725157]
+  RingCirclePositionError : 0
+  position_error : 6.28112
+  orientation_error : 3.09704
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:15Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.187346 , 1.81142 , 0.312313]
+       - orientation : [-0.181424 , 0.116789 , 0.683569 , 0.697266]
+  RingCirclePositionError : 0
+  position_error : 5.2527
+  orientation_error : 2.77672
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:15Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.188982 , 1.80792 , 0.304113]
+       - orientation : [-0.181522 , 0.118965 , 0.680215 , 0.700146]
+  RingCirclePositionError : 0
+  position_error : 5.25597
+  orientation_error : 2.77652
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:16Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.189047 , 1.79794 , 0.298713]
+       - orientation : [-0.184391 , 0.115719 , 0.695726 , 0.684525]
+  RingCirclePositionError : 0
+  position_error : 5.26588
+  orientation_error : 2.77069
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:16Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.189023 , 1.79755 , 0.294875]
+       - orientation : [-0.184369 , 0.116055 , 0.696187 , 0.684005]
+  RingCirclePositionError : 0
+  position_error : 5.26629
+  orientation_error : 2.77073
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:16Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.189 , 1.79717 , 0.29104]
+       - orientation : [-0.184344 , 0.116389 , 0.69665 , 0.683483]
+  RingCirclePositionError : 0
+  position_error : 5.2667
+  orientation_error : 2.77078
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:16Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.191417 , 1.83046 , 0.2935]
+       - orientation : [-0.171396 , 0.107242 , 0.705966 , 0.678774]
+  RingCirclePositionError : 0
+  position_error : 5.23335
+  orientation_error : 2.7971
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.188977 , 1.79679 , 0.287207]
+       - orientation : [-0.184317 , 0.116721 , 0.697114 , 0.68296]
+  RingCirclePositionError : 0
+  position_error : 5.2671
+  orientation_error : 2.77084
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.191396 , 1.83011 , 0.289602]
+       - orientation : [-0.171376 , 0.107559 , 0.706414 , 0.678263]
+  RingCirclePositionError : 0
+  position_error : 5.23372
+  orientation_error : 2.79714
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.189356 , 1.77358 , 0.279871]
+       - orientation : [-0.201137 , 0.121448 , 0.712378 , 0.661295]
+  RingCirclePositionError : 0
+  position_error : 5.29008
+  orientation_error : 2.73656
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0614542 , 0.649325 , 0.0630087]
+       - orientation : [0.74564 , -0.0136393 , 0.65515 , 0.120888]
+  RingCirclePositionError : 0
+  position_error : 6.42787
+  orientation_error : 1.4586
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608419 , 0.62261 , 0.0582405]
+       - orientation : [0.740448 , 0.0473888 , 0.668185 , 0.0549525]
+  RingCirclePositionError : 0
+  position_error : 6.45452
+  orientation_error : 1.47412
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.197308 , 1.9603 , 0.161916]
+       - orientation : [-0.111844 , 0.0739224 , 0.749951 , 0.647765]
+  RingCirclePositionError : 0
+  position_error : 5.10814
+  orientation_error : 2.91744
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585875 , 0.63289 , 0.0449336]
+       - orientation : [-0.000622622 , 0.676257 , -0.0117928 , 0.736572]
+  RingCirclePositionError : 0
+  position_error : 6.44534
+  orientation_error : 3.14035
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:17Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608576 , 0.622722 , 0.0571418]
+       - orientation : [0.740379 , 0.0486352 , 0.668415 , 0.0519045]
+  RingCirclePositionError : 0
+  position_error : 6.4544
+  orientation_error : 1.47432
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608495 , 0.622686 , 0.056938]
+       - orientation : [0.740506 , 0.0466231 , 0.668231 , 0.0542513]
+  RingCirclePositionError : 0
+  position_error : 6.45443
+  orientation_error : 1.47395
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608495 , 0.622686 , 0.056938]
+       - orientation : [0.740506 , 0.0466231 , 0.668231 , 0.0542513]
+  RingCirclePositionError : 0
+  position_error : 6.45441
+  orientation_error : 1.47395
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608495 , 0.622686 , 0.056938]
+       - orientation : [0.740506 , 0.0466231 , 0.668231 , 0.0542513]
+  RingCirclePositionError : 0
+  position_error : 6.45439
+  orientation_error : 1.47395
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-34707 , 355280 , 28735.9]
+       - orientation : [0.60616 , 0.304007 , -0.246764 , 0.692284]
+  RingCirclePositionError : 0
+  position_error : 358119
+  orientation_error : 1.83915
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585886 , 0.632903 , 0.0436023]
+       - orientation : [9.89317e-05 , 0.676255 , -0.0110215 , 0.736585]
+  RingCirclePositionError : 0
+  position_error : 6.44527
+  orientation_error : 3.14139
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.060865 , 0.622797 , 0.0558388]
+       - orientation : [0.740439 , 0.0478696 , 0.668459 , 0.0512023]
+  RingCirclePositionError : 0
+  position_error : 6.45426
+  orientation_error : 1.47415
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.060857 , 0.622761 , 0.0556352]
+       - orientation : [0.740564 , 0.045857 , 0.668277 , 0.0535497]
+  RingCirclePositionError : 0
+  position_error : 6.45429
+  orientation_error : 1.47377
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.060857 , 0.622761 , 0.0556352]
+       - orientation : [0.740564 , 0.045857 , 0.668277 , 0.0535497]
+  RingCirclePositionError : 0
+  position_error : 6.45427
+  orientation_error : 1.47377
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-1.23824e+09 , 1.26754e+10 , 9.98585e+08]
+       - orientation : [0.817224 , 0.0213233 , 0.00489046 , 0.575905]
+  RingCirclePositionError : 0
+  position_error : 1.27748e+10
+  orientation_error : 1.22844
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585896 , 0.632915 , 0.0422709]
+       - orientation : [0.000820557 , 0.676254 , -0.0102499 , 0.736597]
+  RingCirclePositionError : 0
+  position_error : 6.44521
+  orientation_error : 3.13995
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585896 , 0.632915 , 0.0422709]
+       - orientation : [0.000820557 , 0.676254 , -0.0102499 , 0.736597]
+  RingCirclePositionError : 0
+  position_error : 6.44519
+  orientation_error : 3.13995
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608723 , 0.622871 , 0.0545354]
+       - orientation : [0.740498 , 0.0471036 , 0.668501 , 0.0504996]
+  RingCirclePositionError : 0
+  position_error : 6.45413
+  orientation_error : 1.47397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608723 , 0.622871 , 0.0545354]
+       - orientation : [0.740498 , 0.0471036 , 0.668501 , 0.0504996]
+  RingCirclePositionError : 0
+  position_error : 6.4541
+  orientation_error : 1.47397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608643 , 0.622835 , 0.0543318]
+       - orientation : [0.740621 , 0.0450904 , 0.668322 , 0.0528476]
+  RingCirclePositionError : 0
+  position_error : 6.45413
+  orientation_error : 1.4736
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.197304 , 1.96015 , 0.149555]
+       - orientation : [-0.111595 , 0.0744368 , 0.751252 , 0.64624]
+  RingCirclePositionError : 0
+  position_error : 5.10852
+  orientation_error : 2.91794
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608795 , 0.622944 , 0.0532316]
+       - orientation : [0.740556 , 0.0463372 , 0.668543 , 0.0497966]
+  RingCirclePositionError : 0
+  position_error : 6.45403
+  orientation_error : 1.4738
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585905 , 0.632925 , 0.0409394]
+       - orientation : [0.00154225 , 0.676251 , -0.00947828 , 0.736608]
+  RingCirclePositionError : 0
+  position_error : 6.44512
+  orientation_error : 3.13851
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:18Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0590003 , 0.632376 , 0.0408998]
+       - orientation : [0.00155952 , 0.675546 , -0.00954157 , 0.737255]
+  RingCirclePositionError : 0
+  position_error : 6.44558
+  orientation_error : 3.13847
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608795 , 0.622944 , 0.0532316]
+       - orientation : [0.740556 , 0.0463372 , 0.668543 , 0.0497966]
+  RingCirclePositionError : 0
+  position_error : 6.45397
+  orientation_error : 1.4738
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0608715 , 0.622907 , 0.0530281]
+       - orientation : [0.740677 , 0.0443235 , 0.668366 , 0.0521451]
+  RingCirclePositionError : 0
+  position_error : 6.454
+  orientation_error : 1.47344
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-6.7097 , 68.1393 , 5.07876]
+       - orientation : [0.55829 , 0.384574 , 0.605382 , 0.417046]
+  RingCirclePositionError : 0
+  position_error : 61.5851
+  orientation_error : 1.95695
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.197661 , 1.95368 , 0.143823]
+       - orientation : [-0.106229 , 0.078879 , 0.729083 , 0.671515]
+  RingCirclePositionError : 0
+  position_error : 5.11497
+  orientation_error : 2.92873
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.058539 , 0.630273 , 0.0394148]
+       - orientation : [0.00212986 , 0.676532 , -0.00875893 , 0.736358]
+  RingCirclePositionError : 0
+  position_error : 6.4477
+  orientation_error : 3.13733
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0589482 , 0.629735 , 0.0393771]
+       - orientation : [0.00214716 , 0.675828 , -0.0088213 , 0.737003]
+  RingCirclePositionError : 0
+  position_error : 6.44815
+  orientation_error : 3.1373
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0821042 , 0.833767 , 0.0822718]
+       - orientation : [0.72691 , -0.133578 , 0.603926 , 0.298381]
+  RingCirclePositionError : 0
+  position_error : 6.24104
+  orientation_error : 1.51397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0821042 , 0.833767 , 0.0822718]
+       - orientation : [0.72691 , -0.133578 , 0.603926 , 0.298381]
+  RingCirclePositionError : 0
+  position_error : 6.24102
+  orientation_error : 1.51397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [4.14457 , -41.967 , -3.07775]
+       - orientation : [0.838262 , -0.297572 , -0.438402 , -0.128732]
+  RingCirclePositionError : 0
+  position_error : 49.3573
+  orientation_error : 1.15342
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.197659 , 1.95362 , 0.139716]
+       - orientation : [-0.106145 , 0.0790517 , 0.729523 , 0.67103]
+  RingCirclePositionError : 0
+  position_error : 5.1151
+  orientation_error : 2.9289
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0585397 , 0.630281 , 0.0380886]
+       - orientation : [0.00285183 , 0.676528 , -0.00798718 , 0.736368]
+  RingCirclePositionError : 0
+  position_error : 6.44762
+  orientation_error : 3.13589
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.0589489 , 0.629743 , 0.0380521]
+       - orientation : [0.00286868 , 0.675825 , -0.00804902 , 0.737013]
+  RingCirclePositionError : 0
+  position_error : 6.44807
+  orientation_error : 3.13586
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.142433 , 1.43211 , 0.124617]
+       - orientation : [0.721738 , -0.0435831 , 0.603153 , 0.336752]
+  RingCirclePositionError : 0
+  position_error : 5.63899
+  orientation_error : 1.52897
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T17:06:19Z
+  target_type : rect
+  model_name : rect
+  pose : 
+       - position : [-0.421974 , 4.26785 , 0.311038]
+       - orientation : [0.689274 , 0.327843 , 0.521068 , 0.38198]
+  RingCirclePositionError : 0
+  position_error : 2.79329
+  orientation_error : 1.62062
+  found_in_gazebo : 1
+
